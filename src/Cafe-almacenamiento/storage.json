@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Costa Rica",
+        "precio": "9,00€",
+        "img": "imagen/CostaRica.MontoBello.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Colombia",
+        "precio": "9,00€",
+        "img": "imagen/Colombia.Lacasita.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Laos",
+        "precio": "9,00€",
+        "img": ".imagen/Laos.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Etiopia Yrgarcheff",
+        "precio": "9,00€",
+        "img": "imagen/Etiopia.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Kenia",
+        "precio": "15,00€",
+        "img": "imagen/Kenia.png"
+    },
+    {
+        "id": 6,
+        "nombre": "Etiopia Sidamo",
+        "precio": "17,00€",
+        "img": "imagen/Etiopia.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Costa Rica",
+        "precio": "12,00€",
+        "img": "imagen/CostaRica.MontoBello.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Colombia La Casita",
+        "precio": "9,00€",
+        "img": "imagen/Colombia.Lacasita.jpg"
+    }
+]
